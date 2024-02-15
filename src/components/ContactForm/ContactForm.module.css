@@ -8,29 +8,6 @@
 }
 
 .form input {
-  width: 100%;
-  padding: 10px;
-  margin-bottom: 10px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-}
-
-.form input:hover,
-.form button:hover {
-  border-color: #999;
-}
-
-/* ContactForm.module.css */
-.form {
-  margin-bottom: 20px;
-}
-
-.form label {
-  display: block;
-  margin-bottom: 5px;
-}
-
-.form input {
   width: calc(100% - 20px);
   padding: 10px;
   margin-bottom: 10px;
